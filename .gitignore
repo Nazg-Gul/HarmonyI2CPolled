@@ -1,0 +1,9 @@
+/firmware/HarmonyI2CPolled.X/build/default/
+/firmware/HarmonyI2CPolled.X/dist/default/
+
+# Makefiles autogenerados
+/firmware/HarmonyI2CPolled.X/nbproject/Makefile-default.mk
+/firmware/HarmonyI2CPolled.X/nbproject/Makefile-genesis.properties
+/firmware/HarmonyI2CPolled.X/nbproject/Makefile-impl.mk
+/firmware/HarmonyI2CPolled.X/nbproject/Makefile-variables.mk
+/firmware/HarmonyI2CPolled.X/nbproject/Makefile-local-default.mk
